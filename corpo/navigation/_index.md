@@ -3,9 +3,7 @@ title: навигация
 order: 1
 ---
 
-
-
-[html::780px]
+[html::839px]
 
 <style>
   html, body {
