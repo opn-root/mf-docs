@@ -2,8 +2,8 @@
 title: Приветствуем в Night City
 order: 2
 aliases:
-  - path: welcome
-    moved: "2026-08-27T11:30:35Z"
+  - path: privetstvuem-v-night-city
+    moved: "2026-08-27T14:44:53Z"
 ---
 
 [image:./privetstvuem-v-night-city.jpeg::На сервере MainFrame:0,19.588875453446192,99.985121261717,69.0447400241838:1270px::1919px:1079px:center]
