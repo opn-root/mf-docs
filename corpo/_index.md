@@ -1,5 +1,5 @@
 ---
-title: Корпо
+title: Корпорации
 order: 3
 aliases:
   - path: corporations
