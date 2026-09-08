@@ -73,28 +73,28 @@ aliases:
 
 <div class="grid">
   <a class="card" href="https://gramax.mainframenetwork.com/mf-docs/corpo/navigation/Militech" target="_blank" rel="noopener noreferrer">
-    <img src="ssilka na fotku" alt="">
-    <span class="label">Pidori</span>
+    <img src="https://r2.fivemanage.com/4yZaDFaKDWfxxYbNh9G4n/militechlogo.png" alt="">
+    <span class="label">Militech</span>
   </a>
   <a class="card" href="https://gramax.mainframenetwork.com/mf-docs/corpo/navigation/Arasaka" target="_blank" rel="noopener noreferrer">
-    <img src="ssilka na fotku" alt="">
-    <span class="label">Mrazi</span>
+    <img src="https://r2.fivemanage.com/4yZaDFaKDWfxxYbNh9G4n/arasakalogo.png" alt="">
+    <span class="label">Arasaka</span>
   </a>
   <a class="card" href="https://gramax.mainframenetwork.com/mf-docs/corpo/navigation/Dynalar" target="_blank" rel="noopener noreferrer">
-    <img src="ssilka na fotku" alt="">
-    <span class="label">Shniri</span>
+    <img src="https://r2.fivemanage.com/4yZaDFaKDWfxxYbNh9G4n/dynalarlogo.png" alt="">
+    <span class="label">Dynalar</span>
   </a>
-  <a class="card" href="https://gramax.mainframenetwork.com/mf-docs/corpo/navigation/Micro" target="_blank" rel="noopener noreferrer">
-    <img src="ssilka na fotku" alt="">
-    <span class="label">Microchleniki</span>
+  <a class="card" href="https://gramax.mainframenetwork.com/mf-docs/corpo/navigation/Microtech" target="_blank" rel="noopener noreferrer">
+    <img src="https://r2.fivemanage.com/4yZaDFaKDWfxxYbNh9G4n/microtechlogo.png" alt="">
+    <span class="label">Microtech</span>
   </a>
-  <a class="card" href="https://gramax.mainframenetwork.com/mf-docs/corpo/navigation/TT" target="_blank" rel="noopener noreferrer">
-    <img src="ssilka na fotku" alt="">
-    <span class="label">TT v karmane</span>
+  <a class="card" href="https://gramax.mainframenetwork.com/mf-docs/corpo/navigation/Trauma-Team" target="_blank" rel="noopener noreferrer">
+    <img src="https://r2.fivemanage.com/4yZaDFaKDWfxxYbNh9G4n/traumalogo.png" alt="">
+    <span class="label">Trauma Team</span>
   </a>
-  <a class="card" href="https://gramax.mainframenetwork.com/mf-docs/corpo/navigation/KT" target="_blank" rel="noopener noreferrer">
-    <img src="ssilka na fotku" alt="">
-    <span class="label">Kapt za telku</span>
+  <a class="card" href="https://gramax.mainframenetwork.com/mf-docs/corpo/navigation/Kang-Tao" target="_blank" rel="noopener noreferrer">
+    <img src="https://r2.fivemanage.com/4yZaDFaKDWfxxYbNh9G4n/kang-taologo.png" alt="">
+    <span class="label">Kang Tao</span>
   </a>
 </div>
 
