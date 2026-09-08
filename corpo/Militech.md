@@ -8,6 +8,8 @@ aliases:
     moved: "2026-09-08T00:21:40Z"
 ---
 
+[image:./Militech-2.webp:::0,0,100,100:1270px::1860px:609px:center]
+
 ### **Militech International Armaments** - основанная в конце XX века американская корпорация по производству оружия и предоставлению военных услуг.
 
 [image:./Militech.webp:::0,0,100,100:188px::319px:318px:left]
