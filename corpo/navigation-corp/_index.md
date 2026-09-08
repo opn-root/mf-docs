@@ -1,6 +1,6 @@
 ---
 title: Навигация
-order: 1
+order: 6
 aliases:
   - path: corpo/navigation
     moved: "2026-08-27T14:28:59Z"
