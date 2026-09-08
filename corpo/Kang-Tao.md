@@ -8,3 +8,4 @@ aliases:
     moved: "2026-09-08T00:21:49Z"
 ---
 
+[image:./Kang-Tao.webp:::0,0,100,100:1270px::1860px:609px:center]
