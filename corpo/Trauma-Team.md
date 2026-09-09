@@ -12,7 +12,7 @@ aliases:
 
 ### Trauma Team International - частная медицинская фирма, которая также занимается медицинским страхованием.
 
-[image:./Trauma-Team-2.webp:::0,0,100,100:173px::319px:318px:left]
+[image:./Trauma-Team-2.webp:::0,0,100,100:205px::319px:318px:left]
 
 #### Тип: Частная медицинская корпорация
 
