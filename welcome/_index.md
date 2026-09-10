@@ -6,7 +6,7 @@ aliases:
     moved: "2026-08-27T14:44:53Z"
 ---
 
-[image:./privetstvuem-v-night-city.jpeg::На сервере MainFrame:0,19.588875453446192,99.985121261717,69.0447400241838:1270px::1919px:1079px:center]
+[image:./privetstvuem-v-night-city.jpeg::На сервере MainFrame:0,19.588875453446192,99.985121261717,69.0447400241838:1261px::1919px:1079px:center]
 
 ### [highlight:red]**Umbrella RP | MainFrame**[/highlight] - авторский некоммерческий RP‑проект в сеттинге **CyberPunk2077**, а так же **Cyberpunk RED** за авторством R. Talsorian Games созданный командой энтузиастов, с адаптациями для комфортного RolePlay - процесса, сохраняющими атмосферу оригинала.
 
