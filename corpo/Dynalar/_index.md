@@ -6,7 +6,7 @@ aliases:
     moved: "2026-09-08T00:21:42Z"
 ---
 
-Корпорация «Dynalar Technologies»  -- компания-производитель имплантов.
+### Корпорация «Dynalar Technologies»  -- компания-производитель имплантов.
 
 [image:./Dynalar-2.webp:::0,0,100,100:178px::319px:318px:left]
 
