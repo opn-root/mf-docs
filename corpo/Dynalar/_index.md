@@ -8,7 +8,9 @@ aliases:
 
 ### Корпорация «Dynalar Technologies»  -- компания-производитель имплантов.
 
-[image:./Dynalar-2.webp:::0,0,100,100:178px::319px:318px:left]
+[image:./Dynalar-2.webp::::279px::319px:318px:left]
+
+
 
 
 
@@ -17,6 +19,10 @@ aliases:
 Штаб-квартира: Даллас, Техас
 
 Основание: 2020 год
+
+
+
+
 
 
 
