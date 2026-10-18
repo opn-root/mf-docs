@@ -25,7 +25,7 @@ aliases:
 - [Правила](./rules/_index.md) - обязательны к прочтению.
 - [Лор Сервера ](./lore/_index.md)\- справочник мира.
 - [Как начать играть](./how-to-start.md) - процедура получения Whitelist.
-- Для информации по фракциям [Корпорации](/o/7xVfz5OwS81QN8NfwK0E/s/3kP7jobEC7SLf34i9EBL/korp), [Банды](/o/7xVfz5OwS81QN8NfwK0E/s/3kP7jobEC7SLf34i9EBL/gangs), [Гос. Фракции](/o/7xVfz5OwS81QN8NfwK0E/s/3kP7jobEC7SLf34i9EBL/gos), [Сторонние организации](/o/7xVfz5OwS81QN8NfwK0E/s/3kP7jobEC7SLf34i9EBL/private-org) и [Соло](/o/7xVfz5OwS81QN8NfwK0E/s/3kP7jobEC7SLf34i9EBL/solo).
+- Для информации по фракциям Корпорации, Банды, Гос. Фракции, Сторонние организации и Соло.
 
 
 
