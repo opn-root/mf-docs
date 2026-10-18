@@ -2,5 +2,8 @@ title: MainFrame
 optionalCategoryIndex: true
 supportedLanguages: []
 properties: []
-logo: logo.png
+logo: logo.svg
 style: purple-blue
+lfs:
+  auto: false
+  exclude: []
