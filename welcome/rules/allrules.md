@@ -246,22 +246,22 @@ aliases:
 11\.4. Количество игроков во фракции (Далее - слоты) ограничено следующем образом:
 
 - **Корпорации:**
-  - Arasaka | 13 слотов
-  - Militech | 13 слотов
-  - Dynalar | 9 слотов
-  - Trauma Team | 11 слотов
+  - Arasaka | 14 слотов
+  - Militech | 14 слотов
+  - Dynalar | 10 слотов
+  - Trauma Team | 12 слотов
 - **Муниципальные организации:**
   - NCPD | 40 слотов
 - **Главенствующие банды:**
-  - Valentino's | 13 слотов
-  - 6th street | 13 слотов
-  - Tyger Claws | 13 слотов
-  - Moxes | 13 слотов
+  - Valentino's | 14 слотов
+  - 6th street | 14 слотов
+  - Tyger Claws | 14 слотов
+  - Moxes | 14 слотов
 - **Уникальные банды:**
-  - Maelstrom | 9 слотов
-  - Animals | 9 слотов
-  - Voodoo Boys | 9 слотов
-  - Scavengers | 9 слотов
+  - Maelstrom | 10 слотов
+  - Animals | 10 слотов
+  - Voodoo Boys | 10 слотов
+  - Scavengers | 10 слотов
 - **Независимые организации:**
   - NCMC | 11 слотов
   - WNS | 7 слотов
