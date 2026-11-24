@@ -1,8 +1,9 @@
 ---
 title: Wraiths
-order: 0.5
+order: 0.1
 aliases:
   - { path: badlands/wraiths, moved: "2026-11-24T00:19:52Z" }
+  - { path: badlands/nomads/Aldecaldos/wraiths, moved: "2026-11-24T00:22:40Z" }
 ---
 
 ![](./wraiths.webp){width=1865px height=609px scale=1270px}
