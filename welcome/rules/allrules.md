@@ -403,7 +403,7 @@ aliases:
 
 ![](./allrules.webp){width=1962px height=1724px scale=852px}
 
-- [highlight:green]Примечание 1:[/highlight] Данные территории относится **только** к п.п 7.17\
+- [highlight:green]Примечание 1:[/highlight] Данные территории относится **только** к п.п 7.18\
   [highlight:green]Примечание 2:[/highlight] Данные территории ***могут изменитьс**я*
 
 ## 16\. Спорные ситуации
